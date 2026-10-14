@@ -1,0 +1,2 @@
+Selected_Model,Selected_Threshold,Threshold_Metric,Random_State,CV_Folds
+XGBoost + SMOTE,0.2,F2,42,5

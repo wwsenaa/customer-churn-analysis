@@ -1,0 +1,11 @@
+Feature,Importance
+Contract_One year,0.27015767
+Contract_Two year,0.20532426
+InternetService_No,0.09582228
+OnlineSecurity_Yes,0.054804035
+Partner_Yes,0.053331643
+PaymentMethod_Credit card (automatic),0.03432555
+TechSupport_Yes,0.033570755
+Dependents_Yes,0.032960482
+PaymentMethod_Mailed check,0.03086163
+OnlineBackup_Yes,0.028646046
